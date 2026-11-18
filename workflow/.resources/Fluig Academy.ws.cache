@@ -26,10 +26,10 @@
        <int>1</int>
       </void>
       <void property="processDescription">
-       <string>Abertura de Chamados</string>
+       <string>Manutenção de Equipamentos</string>
       </void>
       <void property="processId">
-       <string>01</string>
+       <string>001</string>
       </void>
      </object>
     </void>
@@ -39,10 +39,10 @@
        <int>1</int>
       </void>
       <void property="processDescription">
-       <string>ADIANTAMENTO DE VIAGEM</string>
+       <string>Solicitação de Compra</string>
       </void>
       <void property="processId">
-       <string>ADIANTAMENTO DE VIAGEM</string>
+       <string>003</string>
       </void>
      </object>
     </void>
@@ -52,23 +52,10 @@
        <int>1</int>
       </void>
       <void property="processDescription">
-       <string>central_chamados_lab</string>
+       <string>Pedido de Venda</string>
       </void>
       <void property="processId">
-       <string>central_chamados_lab</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="processDescription">
-       <string>central_chamados_lab</string>
-      </void>
-      <void property="processId">
-       <string>central_chamados_lab_ellen</string>
+       <string>0101</string>
       </void>
      </object>
     </void>
@@ -91,36 +78,10 @@
        <int>1</int>
       </void>
       <void property="processDescription">
-       <string>Abertura de Chamados</string>
-      </void>
-      <void property="processId">
-       <string>m1</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="processDescription">
        <string>new_diagram</string>
       </void>
       <void property="processId">
        <string>new_diagram</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="processDescription">
-       <string>Pós Graduação</string>
-      </void>
-      <void property="processId">
-       <string>pos_graduacao</string>
       </void>
      </object>
     </void>
@@ -143,10 +104,10 @@
        <int>1</int>
       </void>
       <void property="processDescription">
-       <string>Resolução de problemas</string>
+       <string>Realizar Compra</string>
       </void>
       <void property="processId">
-       <string>resolucao_problema</string>
+       <string>realizarCompra</string>
       </void>
      </object>
     </void>
@@ -156,49 +117,10 @@
        <int>1</int>
       </void>
       <void property="processDescription">
-       <string>Solicitacao Pagamento</string>
+       <string>Solicitação de compras ph</string>
       </void>
       <void property="processId">
-       <string>Solicitacao_Pagamento</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="processDescription">
-       <string>teste rm</string>
-      </void>
-      <void property="processId">
-       <string>teste</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="processDescription">
-       <string>teste 3</string>
-      </void>
-      <void property="processId">
-       <string>teste3</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="processDescription">
-       <string>Abertura de Chamados</string>
-      </void>
-      <void property="processId">
-       <string>teste_fluig_compras_solicitacao</string>
+       <string>solicitacaoCompras</string>
       </void>
      </object>
     </void>

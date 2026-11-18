@@ -104,8 +104,8 @@
         <version>1</version>
         <sequence>5</sequence>
       </processStatePK>
-      <stateName>Act1</stateName>
-      <stateDescription>Act1</stateDescription>
+      <stateName>Aprovação do gestor</stateName>
+      <stateDescription>Aprovação do gestor</stateDescription>
       <instruction></instruction>
       <deadlineTime>0</deadlineTime>
       <deadlineFieldName></deadlineFieldName>
@@ -152,7 +152,7 @@
         <companyId>1</companyId>
         <processId>new_diagram</processId>
         <version>1</version>
-        <sequence>9</sequence>
+        <sequence>12</sequence>
       </processStatePK>
       <stateName>End</stateName>
       <stateDescription>End</stateDescription>
@@ -176,8 +176,8 @@
       <notifyAuthorityFollowUp>false</notifyAuthorityFollowUp>
       <notifyRequisitionerFollowUp>false</notifyRequisitionerFollowUp>
       <automatic>false</automatic>
-      <positionX>690</positionX>
-      <positionY>360</positionY>
+      <positionX>620</positionX>
+      <positionY>227</positionY>
       <forecastedEffortType>0</forecastedEffortType>
       <forecastedEffort>0</forecastedEffort>
       <notifyManagerFollowUp>false</notifyManagerFollowUp>
@@ -219,12 +219,12 @@
         <companyId>1</companyId>
         <processId>new_diagram</processId>
         <version>1</version>
-        <linkSequence>10</linkSequence>
+        <linkSequence>13</linkSequence>
       </processLinkPK>
       <actionLabel></actionLabel>
       <returnPermited>false</returnPermited>
       <initialStateSequence>5</initialStateSequence>
-      <finalStateSequence>9</finalStateSequence>
+      <finalStateSequence>12</finalStateSequence>
       <returnLabel></returnLabel>
       <name></name>
       <automaticLink>false</automaticLink>
@@ -285,14 +285,14 @@
       </swimLanePK>
     </SwimLane>
     <SwimLane>
-      <color>82b0b7</color>
+      <color>C0C0C0</color>
       <height>145</height>
-      <width>830</width>
-      <positionX>10</positionX>
-      <positionY>299</positionY>
-      <stateName>SwimLane</stateName>
+      <width>801</width>
+      <positionX>30</positionX>
+      <positionY>145</positionY>
+      <stateName>Assignee</stateName>
       <type>2</type>
-      <parentSequence>0</parentSequence>
+      <parentSequence>1</parentSequence>
       <swimLanePK>
         <companyId>1</companyId>
         <processId>new_diagram</processId>
